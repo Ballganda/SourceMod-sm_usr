@@ -1,7 +1,7 @@
 # SourceMod-sm_usr
 Get user info for CS:S/monitor rates/Notify Admin
 
-## What is does
+## What it does
 ### For Admin
 - Auto notify admins of a user with bad rates
 - Provide Admin with list of all user with associated IDs, GEOIP, and rate information
