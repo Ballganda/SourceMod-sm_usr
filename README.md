@@ -9,3 +9,4 @@ Get user info for CS:S/monitor rates/Notify Admin
 - TBD
 ### For User (client)
 - See there own information reported by the server.
+- Notify user of rate issue
